@@ -5,8 +5,8 @@
 <h1 align="center">Hey there, I'm Venus Kareen! 🚀</h1>
 
 <p align="center">
-  ⭐️ Fun Fact: The only thing better than a well-written code is a well-brewed coffee! ☕️</p>
-  <em>Software Engineer | Code Enthusiast | Pixel Pusher</em>
+  ⭐️ Fun Fact: The only thing better than a well-written code is a sonically unified orchestra</p>
+  <em>Future Cloud Developer | IT Student | </em>
 </p>
 
 ---
@@ -16,8 +16,8 @@
 
 Exploring virtual worlds 🕹️
 Reading tech blogs and fantasy novels 📚
-Experimenting with new recipes in the kitchen 🍳
-💬 Let's connect and chat about code, gaming, or your favorite book! You can reach me on Twitter or LinkedIn.
+Experimenting classical repertoires with my sax
+💬 Let's connect and chat about code, jazz/classical music, or your favorite book! You can reach me on X or LinkedIn.
 
 ⭐ Be sure to check out my projects below and give them a star if you find them interesting!
 
@@ -30,8 +30,8 @@ class AboutMe:
     def __init__(self):
         self.name = "Venus Kareen"
         self.pronouns = ["She", "Her"]
-        self.code = ["Python", "JavaScript", "Java", "Swift", "HTML/CSS"]
-        self.tools = ["VS Code", "Git", "GitHub", "Docker", "Unity"]
+        self.code = ["Python", "JavaScript", "Java", "PHP", "Laravel" , "HTML/CSS"]
+        self.tools = ["VS Code", "Git", "GitHub", "Android Studio"]
 
     def say_hello(self):
         print("Thanks for stopping by! ✨ Let's code something amazing together! 🚀")
