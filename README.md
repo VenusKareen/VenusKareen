@@ -17,7 +17,7 @@
 Exploring virtual worlds 🕹️
 Reading tech blogs and fantasy novels 📚
 Experimenting classical repertoires with my sax
-💬 Let's connect and chat about code, jazz/classical music, or your favorite book! You can reach me on X or LinkedIn.
+💬 Let's connect and chat about code, jazz/classical music, or your favorite book! You can reach me on X (formerly twitter) or LinkedIn.
 
 ⭐ Be sure to check out my projects below and give them a star if you find them interesting!
 
