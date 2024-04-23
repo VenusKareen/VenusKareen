@@ -30,7 +30,7 @@ class AboutMe:
     def __init__(self):
         self.name = "Venus Kareen"
         self.pronouns = ["She", "Her"]
-        self.code = ["Python", "JavaScript", "Java", "PHP", "Laravel" , "HTML/CSS"]
+        self.code = ["JavaScript", "Java", "PHP", "Laravel" , "HTML/CSS"]
         self.tools = ["VS Code", "Git", "GitHub", "Android Studio"]
 
     def say_hello(self):
