@@ -2,39 +2,30 @@
   <img src="https://github.com/VenusKareen/VenusKareen/blob/main/assets/hello.gif" alt="Hello World!">
 </p>
 
-<h1 align="center">Hey there, I'm Venus Kareen! 🚀</h1>
+<h1 align="center">Hey there, I'm Venus Kareen! </h1>
 
 <p align="center">
-  ⭐️ Fun Fact: The only thing better than a well-written code is a sonically unified orchestra</p>
-  <em>Future Cloud Developer | IT Student | </em>
+
+  <em>|Cloud Developer | Full-Stack Enthusiast | IT Student </em>
 </p>
 
 ---
-
-🌟 Welcome to my GitHub playground! 🌟
-🎮 When I'm not writing code, you can find me:
-
-Exploring virtual worlds 🕹️
-Reading tech blogs and fantasy novels 📚
-Experimenting classical repertoires with my sax
-💬 Let's connect and chat about code, jazz/classical music, or your favorite book! You can reach me on X (formerly twitter) or LinkedIn.
-
-⭐ Be sure to check out my projects below and give them a star if you find them interesting!
-
-
-
 Here's a little about me in code:
 
 ```python
 class AboutMe:
     def __init__(self):
         self.name = "Venus Kareen"
+        self.role = "Cloud Developer | Full-Stack Enthusiast | IT Student"
         self.pronouns = ["She", "Her"]
-        self.code = ["JavaScript", "Java", "PHP" , "AWS"]
-        self.tools = ["VS Code", "Git", "GitHub", "Android Studio"]
+        self.languages = ["JavaScript", "PHP", "GO", "Python"]
+        self.frameworks = ["Laravel", "React"]
+        self.tools = ["VS Code", "Git & GitHub", "Docker", "MySQL"]
+        self.cloud = ["AWS (Certified)", "Firebase", "Vercel"]
+        self.learning = ["Next.js", "CI/CD", "Node.js", "ICP Blockchain"]
 
     def say_hello(self):
-        print("Thanks for stopping by! ✨ Let's code something amazing together! 🚀")
+        print("Thanks for stopping by!")
 
 me = AboutMe()
 me.say_hello()
